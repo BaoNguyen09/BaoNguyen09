@@ -6,7 +6,7 @@ Python developer
 
 An international student demonstrating intermediate Python proficiency with prior experience in Java, and actively contributing to several GitHub projects as a passion for Computer Science.
 
-* 🌍  I'm based in Tucson, AZZ
+* 🌍  I'm based in Tucson, AZ
 * ✉️  You can contact me at [nttbvlogs@gmail.com](mailto:nttbvlogs@gmail.com)
 * 🧠  I'm learning Python, Java, HTML, CSS
 * 🤝  I'm open to collaborating on Projects
