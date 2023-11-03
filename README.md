@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)my name is Bao Nguyen
 ==================================================================================================================================
 
-Python developer
+Software Developer
 ----------------
 
 An international student demonstrating intermediate Python proficiency with prior experience in Java, and actively contributing to several GitHub projects as a passion for Computer Science.
@@ -10,7 +10,7 @@ An international student demonstrating intermediate Python proficiency with prio
 * ✉️  You can contact me at [nttbvlogs@gmail.com](mailto:nttbvlogs@gmail.com)
 * 🧠  I'm learning Python, Java, HTML, CSS
 * 🤝  I'm open to collaborating on Projects
-* ⚡  I love basketball and watching movie
+* ⚡  I love basketball and watching movies
 
 ### Skills
 
