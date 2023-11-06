@@ -1,4 +1,4 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)my name is Bao Nguyen
+![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Bao Nguyen
 ==================================================================================================================================
 
 Software Developer
@@ -8,7 +8,7 @@ An international student demonstrating intermediate Python proficiency with prio
 
 * 🌍  I'm based in Tucson, AZ
 * ✉️  You can contact me at [nttbvlogs@gmail.com](mailto:nttbvlogs@gmail.com)
-* 🧠  I'm learning Python, Java, HTML, CSS
+* 🧠  I'm learning Python, Java, HTML, CSS, JavaScript, AI and ML
 * 🤝  I'm open to collaborating on Projects
 * ⚡  I love basketball and watching movies
 
