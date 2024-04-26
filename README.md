@@ -7,9 +7,9 @@ Software Developer
 An international student demonstrating intermediate Python proficiency with prior experience in Java, and actively contributing to several GitHub projects as a passion for Computer Science.
 
 * 🌍  I'm based in Tucson, AZ
-* ✉️  You can contact me at [nttbvlogs@gmail.com](mailto:nttbvlogs@gmail.com)
+* ✉️  You can contact me at [thienbao05@arizona.edu](mailto:thienbao05@arizona.edu)
 * 🧠  I'm learning Python, Java, HTML, CSS, JavaScript, AI and ML
-* 🤝  I'm open to collaborating on Projects
+* 🤝  I'm open to collaborating on Projects. This is one of the project I'm contributing to: https://www.sci-mi.org/
 * ⚡  I love basketball and watching movies
 
 ### Skills
