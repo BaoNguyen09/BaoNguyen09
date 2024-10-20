@@ -5,16 +5,11 @@
 
 - 🌱 I’m currently learning **MERN stack** and **Java Spring Boot**
 
-- 📫 How to reach me **thienbao05@arizona.edu** or on LinkedIn
+- 📫 How to reach me **thienbao05@arizona.edu** or <a href="https://linkedin.com/in/baonguyen05" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="baonguyen05" height="30" width="40" /></a>
 
 - ⚡ Fun fact **I'm a lion dancer**
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=baonguyen09&" alt="baonguyen09" /></p>
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/baonguyen05" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="baonguyen05" height="30" width="40" /></a>
-</p>
 
 ## 🌱 Tech Stack
 
