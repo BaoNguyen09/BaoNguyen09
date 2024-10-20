@@ -1,11 +1,11 @@
-<h1 align="center">Hi 👋, I'm Bao Nguyen</h1>
+<h1 align="center">Hi 👋, I'm Bao Nguyen - a CS major at the University of Arizona</h1>
 <h3 align="center">Full-stack Developer</h3>
 
-- 🔭 I’m currently working on **LabCoat**
+- 🔭 I’m currently working on **LabCoat** (LinkedIn for research opportunities: connect students and science labs)
 
-- 🌱 I’m currently learning **MERN stack and Java Spring Boot**
+- 🌱 I’m currently learning **MERN stack** and **Java Spring Boot**
 
-- 📫 How to reach me **thienbao05@arizona.edu**
+- 📫 How to reach me **thienbao05@arizona.edu** or on LinkedIn
 
 - ⚡ Fun fact **I'm a lion dancer**
 
