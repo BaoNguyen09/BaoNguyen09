@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Bao Nguyen - a CS major at the University of Arizona</h1>
 <h3 align="center">Full-stack Developer</h3>
 
-- 🔭 I’m currently working on **LabCoat** (LinkedIn for research opportunities: connect students and science labs)
+- 🔭 My team is currently working on **LabCoat** (LinkedIn for research opportunities: connect students and science labs)
 
 - 🌱 I’m currently learning **MERN stack** and **Java Spring Boot**
 
