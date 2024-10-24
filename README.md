@@ -10,9 +10,12 @@
 - ⚡ Fun fact **I'm a lion dancer**
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=baonguyen09&" alt="baonguyen09" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=baonguyen09&show_icons=true&locale=en&layout=compact" alt="baonguyen09" /></p>
 
 ## 🌱 Tech Stack
 
 - **Languages**: Java, Python, JavaScript, Dart
 - **Frameworks/Libraries**: Node.js, Django, JUnit, Django, Next.js, Spring Boot
 - **Tools/Technologies**: Git, Bash, Kubernetes, Docker, GitHub Actions(CI/CD), AWS, Digital Ocean
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=baonguyen09&label=Profile%20views&color=0e75b6&style=flat" alt="baonguyen09" /> </p>
