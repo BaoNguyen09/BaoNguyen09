@@ -9,8 +9,8 @@
 
 - ⚡ Fun fact **I'm a lion dancer** and a LinkedIn content creator 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=BaoNguyen09&show_icons=true&locale=en&layout=compact" alt="baonguyen09" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=baonguyen09&" alt="baonguyen09" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=BaoNguyen09&show_icons=true&locale=en&layout=compact" alt="baonguyen09 github stats" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=baonguyen09&" alt="baonguyen09 streak" /></p>
 <br>
 
 ## 🌱 Tech Stack
