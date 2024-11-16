@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Bao Nguyen - a CS major at the University of Arizona</h1>
 <h3 align="center">Software Engineer | Web Analyst | Back-end Developer</h3>
 
-- 🔭 My team is currently working on **Lynnapse** (Handshake for research opportunities: connect students and science labs)
+- 🔭 My team is currently working on **Lynnapse** (A one-stop platform for research opportunities: connect students and science labs)
 
 - 🌱 I’m currently learning **Backend Development**
 
