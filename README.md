@@ -9,7 +9,7 @@
 
 - ⚡ Fun fact **I'm a lion dancer** and a **LinkedIn content creator**
 
-- "Don't trust yourself unconditionally because you can't. Prove to yourself before asking yourself to trust" - Me
+- "Don't trust yourself blindly. Earn your own trust by proving yourself first through small wins" - Me
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=BaoNguyen09&show_icons=true&locale=en&layout=compact" alt="baonguyen09 github stats" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=baonguyen09&" alt="baonguyen09 streak" /></p>
