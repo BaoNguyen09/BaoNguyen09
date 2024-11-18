@@ -18,7 +18,7 @@
 ## 🌱 Tech Stack
 
 - **Languages**: Java, Python, JavaScript, Dart, HTML/CSS
-- **Frameworks/Databases**: Express.js, Django, FastAPI, Next.js, Spring Boot, CouchBase, MongoDB, PostgreSQL
-- **Tools/Technologies**: Git, Bash, Kubernetes, Docker, GitHub Actions(CI/CD), AWS, Digital Ocean, JUnit, Webpack
+- **Frameworks/Databases**: Express.js, Django, FastAPI, Next.js/React, Spring Boot, CouchBase, MongoDB, PostgreSQL
+- **Tools/Technologies**: Git, Shell, Kubernetes, Docker, GitHub Actions(CI/CD), AWS, Digital Ocean, JUnit, Webpack
 <br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=baonguyen09&label=Profile%20views&color=0e75b6&style=flat" alt="baonguyen09" /> </p>
