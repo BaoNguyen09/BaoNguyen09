@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Bao Nguyen - a CS major at the University of Arizona</h1>
-<h3 align="center">Software Engineer | Web Analyst | Back-end Developer</h3>
+<h3 align="center">Software Engineer | AI Engineer</h3>
 
 - 🔭 My team is currently working on **Lynnapse** (A one-stop platform for research opportunities: connect students and science labs)
 
-- 🌱 I’m currently learning **Backend Development and AI**
+- 🌱 I’m currently learning **Fullstack Development and AI**
 
 - 📫 How to reach me **thienbao05@arizona.edu** or <a href="https://linkedin.com/in/baonguyen05" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="baonguyen05" height="30" width="40" /></a>
 
