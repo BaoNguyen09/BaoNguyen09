@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Bao Nguyen - a CS major at the University of Arizona</h1>
-<h3 align="center">Software Engineer | AI Engineer</h3>
+<h3 align="center">Software Engineer I | AI Engineer</h3>
 
 - 🔭 My team is currently working on **Lynnapse** (A one-stop platform for research opportunities: connect students and science labs)
 
