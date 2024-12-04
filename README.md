@@ -5,7 +5,7 @@
 
 - I'm contributing to an open-source project: [az_quickstart](https://github.com/az-digital/az_quickstart/commits?author=BaoNguyen09)
 
-- 🌱 I’m currently learning **Fullstack Development and AI**
+- 🌱 I’m currently learning **Fullstack Development and AI/ML**
 
 - 📫 How to reach me **thienbao05@arizona.edu** or <a href="https://linkedin.com/in/baonguyen05" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="baonguyen05" height="30" width="40" /></a>
 
