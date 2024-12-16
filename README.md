@@ -1,7 +1,7 @@
 <h1 align="center">Hello 👋, I'm Bao Nguyen - a CS major at the University of Arizona</h1>
 <h3 align="center">Software Engineer | AI Engineer</h3>
 
-- 🔭 My team is currently working on **Lynnapse** (A one-stop platform for research opportunities: connect students and science labs)
+- 🔭 My team is currently working on **Lynnapse** (A one-stop platform for research opportunities: connect students and science labs) 
 
 - I'm contributing to an open-source project: [az_quickstart](https://github.com/az-digital/az_quickstart/commits?author=BaoNguyen09)
 
