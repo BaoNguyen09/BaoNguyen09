@@ -1,7 +1,7 @@
-<h1 align="center">Hello 👋, I'm Bao Nguyen - a CS major at the University of Arizona</h1> 
-<h3 align="center">Software Engineer | AI Engineer</h3>
+<h1 align="center">Hello 👋, I'm Bao Nguyen</h1> 
+<h3 align="center">Cracked Engineer | Indie Hacker | Builder</h3>
 
-- 🔭 My team is currently working on **DSAP** (A one-stop platform for solving DSA with interview style)  
+- 🔭 I'm currently building **GitHub Second Brain** (An MCP server that connects github repos to ai for better code understanding)  
 
 - I'm contributing to an open-source project: [az_quickstart](https://github.com/az-digital/az_quickstart/commits?author=BaoNguyen09)
 
@@ -13,8 +13,7 @@
 
 - "Don't trust yourself blindly. Earn your own trust by proving yourself first through small wins" - Bao
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=BaoNguyen09&show_icons=true&locale=en&layout=compact" alt="baonguyen09 github stats" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=baonguyen09&" alt="baonguyen09 streak" /></p>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=baonguyen09&" alt="baonguyen09 streak" /></p>
 <br>
 
 ## 🌱 Tech Stack
