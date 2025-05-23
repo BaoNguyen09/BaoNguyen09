@@ -1,7 +1,7 @@
 <h1 align="center">Hello 👋, I'm Bao Nguyen</h1> 
 <h3 align="center">Cracked Engineer | Indie Hacker | Builder</h3>
 
-- 🔭 I'm currently building **GitHub Second Brain** (An MCP server that connects github repos to ai for better code understanding)  
+- 🔭 I'm currently building [**GitHub Second Brain**](https://github.com/BaoNguyen09/github-second-brain) (An MCP server that connects github repos to ai for better code understanding)  
 
 - I'm contributing to an open-source project: [az_quickstart](https://github.com/az-digital/az_quickstart/commits?author=BaoNguyen09)
 
