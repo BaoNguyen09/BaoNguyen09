@@ -13,10 +13,9 @@
 
 - *No one cares about your cool project unless it solves one of their problems, so either don't care or build stuff people want* - Bao
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=baonguyen09&show_icons=true&locale=en" alt="baonguyen09" /></p>
-<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=baonguyen09&" alt="baonguyen09" /></p>
-<br>
-<br>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=baonguyen09&show_icons=true&locale=en" alt="baonguyen09" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=baonguyen09&" alt="baonguyen09" /></p>
 
 ## 🌱 Tech Stack
 
@@ -27,3 +26,4 @@
 
 <br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=baonguyen09&label=Profile%20views&color=0e75b6&style=flat" alt="baonguyen09" /> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=baonguyen09" alt="baonguyen09" /></a> </p>
