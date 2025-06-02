@@ -13,9 +13,9 @@
 
 - *No one cares about your cool project unless it solves one of their problems, so either don't care or build stuff people want* - Bao
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=baonguyen09&show_icons=true&locale=en" alt="baonguyen09" /></p>
+<p>&nbsp;<img align="center" width="50%" src="https://github-readme-stats.vercel.app/api?username=baonguyen09&show_icons=true&locale=en" alt="baonguyen09" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=baonguyen09&" alt="baonguyen09" /></p>
+<p><img align="center" width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=baonguyen09&" alt="baonguyen09" /></p>
 
 ## 🌱 Tech Stack
 
