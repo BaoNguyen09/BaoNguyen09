@@ -14,7 +14,7 @@
 - *No one cares about your cool project unless it solves one of their problems, so either don't care or build stuff people want* - Bao
 
 <p align="center">
-  <img width="45%" src="https://github-readme-stats.vercel.app/api?username=baonguyen09&show_icons=true&locale=en" alt="baonguyen09" />
+  <img width="45%" src="https://github-readme-stats.vercel.app/api?username=baonguyen09&show_icons=true&locale=en&show=prs_merged_percentage&hide=issues&rank_icon=percentile" alt="baonguyen09" />
   <img width="47.8%" src="https://github-readme-streak-stats.herokuapp.com/?user=baonguyen09&" alt="baonguyen09" />
 </p>
 
@@ -24,6 +24,8 @@
 - **Frameworks & Libraries**: FastAPI, Express.js, Django, Flutter, React.js, MCP SDK, Tailwind 
 - **Tools & Technologies**: Node.js, Docker, UNIX/Linux (Ubuntu), Apache2, Jest, JUnit, Git/GitHub, Docker, GitHub Actions(CI/CD), Webpack
 - **Cloud & Database**: DigitalOcean, AWS, MySQL, MongoDB
+
+<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=baonguyen09&layout=compact&hide=html,css,scss,") -->
 
 <br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=baonguyen09&label=Profile%20views&color=0e75b6&style=flat" alt="baonguyen09" /> </p>
