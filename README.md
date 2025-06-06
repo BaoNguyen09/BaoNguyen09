@@ -12,7 +12,7 @@
 - ⚡ Fun fact **I'm a lion dancer** and a **hobby runner**
 
 - *No one cares about your cool project unless it solves one of their problems, so either don't care or build stuff people want*
-- *The world only may only see the finish line, but every quite step before is what gets you there. Keep building*
+- *The world may only see the finish line, but every quite step before is what gets you there. Keep building*
 
 <p align="center">
   <img width="45%" src="https://github-readme-stats.vercel.app/api?username=baonguyen09&show_icons=true&locale=en&show=prs_merged_percentage&hide=issues&rank_icon=percentile" alt="baonguyen09" />
