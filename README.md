@@ -29,4 +29,4 @@
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=baonguyen09&layout=compact&hide=html,css,scss,") -->
 
 <br>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=baonguyen09&label=Profile%20views&color=0e75b6&style=flat" alt="baonguyen09" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=baonguyen09&label=Profile+Views&color=0e75b6&style=for-the-badge&abbreviated=true" alt="baonguyen09" /> </p>
