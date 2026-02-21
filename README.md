@@ -20,11 +20,12 @@
 
 ## Current Projects
 
-- 📖 **[RepoExplainer](https://github.com/BaoNguyen09)** – AI-powered repo explanations so you can understand any codebase
+- 🗣️ **[Sparr](https://github.com/Baonguyen09/sparr)** - AI interview coach that knows you and your progress.
 - 🤝 **[az_quickstart](https://github.com/az-digital/az_quickstart)** – Open-source contributions
 
 ## Legacy Work
 
+- 📖 **[RepoExplainer](https://github.com/BaoNguyen09/repo-explainer)** – AI repo explanations so you can understand any codebase
 - 🍥 **[Dishcovery](https://github.com/BaoNguyen09/hackday-arizona)** — Real-time AI for food discovery based on where you are (Hack Arizona HackDay 2026)
 - 🧠 **[GitHub Second Brain](https://github.com/BaoNguyen09/github-second-brain)** – MCP server so AI can explore GitHub codebases
 - ☁️ **[Cloud Provisioner](https://github.com/BaoNguyen09/VM_Manager)** – One dashboard to access and control team VMs
