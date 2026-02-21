@@ -25,7 +25,7 @@
 
 ## Legacy Work
 
-- **[Dishcovery](https://github.com/BaoNguyen09/hackday-arizona)** — Real-time AI for food discovery based on where you are (Hack Arizona HackDay 2026)
+- 🍥 **[Dishcovery](https://github.com/BaoNguyen09/hackday-arizona)** — Real-time AI for food discovery based on where you are (Hack Arizona HackDay 2026)
 - 🧠 **[GitHub Second Brain](https://github.com/BaoNguyen09/github-second-brain)** – MCP server so AI can explore GitHub codebases
 - ☁️ **[Cloud Provisioner](https://github.com/BaoNguyen09/VM_Manager)** – One dashboard to access and control team VMs
 - 🍦 **[Restaurant Management System](https://github.com/BaoNguyen09/csc_335_restaurant)** – Desktop app for orders, billing, and sales analytics
