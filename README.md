@@ -18,16 +18,15 @@
 
 <!-- 🔭 **[RepoExplainer](https://github.com/BaoNguyen09)** – AI-powered repo explanations so you can understand any codebase. -->
 
-## Current Projects
+## Current Projects (2026)
 
 - 🎓 **[Grade Pilot](https://github.com/baonguyen09/grade-pilot)** - Plan your grades, forecast your best-case GPA.
 - 🗣️ **[Sparr](https://github.com/Baonguyen09/sparr)** - AI interview coach that knows you and your progress.
-- 🤝 **[az_quickstart](https://github.com/az-digital/az_quickstart)** – Open-source contributions
+- 📖 **[RepoExplainer](https://github.com/BaoNguyen09/repo-explainer)** – AI repo explanations so you can understand any codebase
+- 🍥 **[Dishcovery](https://github.com/BaoNguyen09/hackday-arizona)** — Real-time AI for food discovery based on where you are (Hack Arizona HackDay 2026)
 
 ## Legacy Work
 
-- 📖 **[RepoExplainer](https://github.com/BaoNguyen09/repo-explainer)** – AI repo explanations so you can understand any codebase
-- 🍥 **[Dishcovery](https://github.com/BaoNguyen09/hackday-arizona)** — Real-time AI for food discovery based on where you are (Hack Arizona HackDay 2026)
 - 🧠 **[GitHub Second Brain](https://github.com/BaoNguyen09/github-second-brain)** – MCP server so AI can explore GitHub codebases
 - ☁️ **[Cloud Provisioner](https://github.com/BaoNguyen09/VM_Manager)** – One dashboard to access and control team VMs
 - 🍦 **[Restaurant Management System](https://github.com/BaoNguyen09/csc_335_restaurant)** – Desktop app for orders, billing, and sales analytics
