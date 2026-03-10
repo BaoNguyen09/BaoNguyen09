@@ -20,6 +20,7 @@
 
 ## Current Projects
 
+- 🎓 **[Grade Pilot](https://github.com/baonguyen09/grade-pilot)** - Plan your grades, forecast your best-case GPA.
 - 🗣️ **[Sparr](https://github.com/Baonguyen09/sparr)** - AI interview coach that knows you and your progress.
 - 🤝 **[az_quickstart](https://github.com/az-digital/az_quickstart)** – Open-source contributions
 
